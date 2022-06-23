@@ -1,0 +1,6 @@
+.fondoastronomi{
+ background-image: url("https://picsum.photos/id/1011/1920/600");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
